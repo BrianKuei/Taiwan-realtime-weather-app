@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Taiwan-realtime-weather-app/static/css/main.dcc359a1.chunk.css",
+    "main.js": "/Taiwan-realtime-weather-app/static/js/main.ced7a0c9.chunk.js",
+    "main.js.map": "/Taiwan-realtime-weather-app/static/js/main.ced7a0c9.chunk.js.map",
+    "runtime-main.js": "/Taiwan-realtime-weather-app/static/js/runtime-main.2f87c9d4.js",
+    "runtime-main.js.map": "/Taiwan-realtime-weather-app/static/js/runtime-main.2f87c9d4.js.map",
+    "static/js/2.c6a1733f.chunk.js": "/Taiwan-realtime-weather-app/static/js/2.c6a1733f.chunk.js",
+    "static/js/2.c6a1733f.chunk.js.map": "/Taiwan-realtime-weather-app/static/js/2.c6a1733f.chunk.js.map",
+    "index.html": "/Taiwan-realtime-weather-app/index.html",
+    "precache-manifest.d42a4dab38ab935bde7590a5786b2afa.js": "/Taiwan-realtime-weather-app/precache-manifest.d42a4dab38ab935bde7590a5786b2afa.js",
+    "service-worker.js": "/Taiwan-realtime-weather-app/service-worker.js",
+    "static/css/main.dcc359a1.chunk.css.map": "/Taiwan-realtime-weather-app/static/css/main.dcc359a1.chunk.css.map",
+    "static/js/2.c6a1733f.chunk.js.LICENSE.txt": "/Taiwan-realtime-weather-app/static/js/2.c6a1733f.chunk.js.LICENSE.txt",
+    "static/media/airFlow.981a9625.svg": "/Taiwan-realtime-weather-app/static/media/airFlow.981a9625.svg",
+    "static/media/cog.7ca9fe14.svg": "/Taiwan-realtime-weather-app/static/media/cog.7ca9fe14.svg",
+    "static/media/day-clear.19e2ef13.svg": "/Taiwan-realtime-weather-app/static/media/day-clear.19e2ef13.svg",
+    "static/media/day-cloudy-fog.296112b1.svg": "/Taiwan-realtime-weather-app/static/media/day-cloudy-fog.296112b1.svg",
+    "static/media/day-cloudy.5c66b134.svg": "/Taiwan-realtime-weather-app/static/media/day-cloudy.5c66b134.svg",
+    "static/media/day-fog.4b1ec37a.svg": "/Taiwan-realtime-weather-app/static/media/day-fog.4b1ec37a.svg",
+    "static/media/day-partially-clear-with-rain.51c7cd39.svg": "/Taiwan-realtime-weather-app/static/media/day-partially-clear-with-rain.51c7cd39.svg",
+    "static/media/day-snowing.dd850924.svg": "/Taiwan-realtime-weather-app/static/media/day-snowing.dd850924.svg",
+    "static/media/day-thunderstorm.32a450a8.svg": "/Taiwan-realtime-weather-app/static/media/day-thunderstorm.32a450a8.svg",
+    "static/media/loading.bffa65e7.svg": "/Taiwan-realtime-weather-app/static/media/loading.bffa65e7.svg",
+    "static/media/night-clear.a99547e9.svg": "/Taiwan-realtime-weather-app/static/media/night-clear.a99547e9.svg",
+    "static/media/night-cloudy-fog.c78ef762.svg": "/Taiwan-realtime-weather-app/static/media/night-cloudy-fog.c78ef762.svg",
+    "static/media/night-cloudy.3f253148.svg": "/Taiwan-realtime-weather-app/static/media/night-cloudy.3f253148.svg",
+    "static/media/night-fog.2477d0a9.svg": "/Taiwan-realtime-weather-app/static/media/night-fog.2477d0a9.svg",
+    "static/media/night-partially-clear-with-rain.3a37b82a.svg": "/Taiwan-realtime-weather-app/static/media/night-partially-clear-with-rain.3a37b82a.svg",
+    "static/media/night-snowing.19cb9f62.svg": "/Taiwan-realtime-weather-app/static/media/night-snowing.19cb9f62.svg",
+    "static/media/night-thunderstorm.5f007c77.svg": "/Taiwan-realtime-weather-app/static/media/night-thunderstorm.5f007c77.svg",
+    "static/media/rain.881734c0.svg": "/Taiwan-realtime-weather-app/static/media/rain.881734c0.svg",
+    "static/media/refresh.ed958a11.svg": "/Taiwan-realtime-weather-app/static/media/refresh.ed958a11.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f87c9d4.js",
+    "static/js/2.c6a1733f.chunk.js",
+    "static/css/main.dcc359a1.chunk.css",
+    "static/js/main.ced7a0c9.chunk.js"
+  ]
+}
