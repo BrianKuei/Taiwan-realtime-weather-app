@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Taiwan-realtime-weather-app/precache-manifest.d42a4dab38ab935bde7590a5786b2afa.js"
+  "/Taiwan-realtime-weather-app/precache-manifest.fc0b38efbc41554e9234826d4873eb38.js"
 );
 
 self.addEventListener('message', (event) => {

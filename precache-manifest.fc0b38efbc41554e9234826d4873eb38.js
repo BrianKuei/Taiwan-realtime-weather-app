@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7227ca113d9755a2224c4dcb41e502ed",
+    "revision": "023da9b76e5d0aa6706e46f9435bb20a",
     "url": "/Taiwan-realtime-weather-app/index.html"
   },
   {
-    "revision": "f47410f092b6202b0dd1",
+    "revision": "8481e710051fc2c1a9d9",
     "url": "/Taiwan-realtime-weather-app/static/css/main.dcc359a1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Taiwan-realtime-weather-app/static/js/2.c6a1733f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f47410f092b6202b0dd1",
-    "url": "/Taiwan-realtime-weather-app/static/js/main.ced7a0c9.chunk.js"
+    "revision": "8481e710051fc2c1a9d9",
+    "url": "/Taiwan-realtime-weather-app/static/js/main.ab1bb0c7.chunk.js"
   },
   {
     "revision": "f05cc53b83d38ff7b7fd",

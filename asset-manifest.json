@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Taiwan-realtime-weather-app/static/css/main.dcc359a1.chunk.css",
-    "main.js": "/Taiwan-realtime-weather-app/static/js/main.ced7a0c9.chunk.js",
-    "main.js.map": "/Taiwan-realtime-weather-app/static/js/main.ced7a0c9.chunk.js.map",
+    "main.js": "/Taiwan-realtime-weather-app/static/js/main.ab1bb0c7.chunk.js",
+    "main.js.map": "/Taiwan-realtime-weather-app/static/js/main.ab1bb0c7.chunk.js.map",
     "runtime-main.js": "/Taiwan-realtime-weather-app/static/js/runtime-main.2f87c9d4.js",
     "runtime-main.js.map": "/Taiwan-realtime-weather-app/static/js/runtime-main.2f87c9d4.js.map",
     "static/js/2.c6a1733f.chunk.js": "/Taiwan-realtime-weather-app/static/js/2.c6a1733f.chunk.js",
     "static/js/2.c6a1733f.chunk.js.map": "/Taiwan-realtime-weather-app/static/js/2.c6a1733f.chunk.js.map",
     "index.html": "/Taiwan-realtime-weather-app/index.html",
-    "precache-manifest.d42a4dab38ab935bde7590a5786b2afa.js": "/Taiwan-realtime-weather-app/precache-manifest.d42a4dab38ab935bde7590a5786b2afa.js",
+    "precache-manifest.fc0b38efbc41554e9234826d4873eb38.js": "/Taiwan-realtime-weather-app/precache-manifest.fc0b38efbc41554e9234826d4873eb38.js",
     "service-worker.js": "/Taiwan-realtime-weather-app/service-worker.js",
     "static/css/main.dcc359a1.chunk.css.map": "/Taiwan-realtime-weather-app/static/css/main.dcc359a1.chunk.css.map",
     "static/js/2.c6a1733f.chunk.js.LICENSE.txt": "/Taiwan-realtime-weather-app/static/js/2.c6a1733f.chunk.js.LICENSE.txt",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.2f87c9d4.js",
     "static/js/2.c6a1733f.chunk.js",
     "static/css/main.dcc359a1.chunk.css",
-    "static/js/main.ced7a0c9.chunk.js"
+    "static/js/main.ab1bb0c7.chunk.js"
   ]
 }
